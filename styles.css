@@ -1,6 +1,6 @@
 body
 {
-	background-color: white;
+	background-color: black;
 }
 
 h1
@@ -10,5 +10,6 @@ h1
 
 p
 {
-	text-decoration: blink;
+	color: red;
+	background-color: green;
 }
