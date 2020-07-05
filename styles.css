@@ -5,11 +5,10 @@ body
 
 h1
 {
-	color: #00FFFF;
+	color: white;
 }
 
 p
 {
-	color: red;
-	background-color: green;
+	color: #00ffff;
 }
